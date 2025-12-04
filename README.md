@@ -2,6 +2,8 @@
 
 A C# Windows Forms scientific calculator that performs both basic and advanced mathematical operations.
 
+<img width="816" height="517" alt="Screenshot 2025-12-03 222403" src="https://github.com/user-attachments/assets/8fd13574-61d0-42a1-aa4c-6aa846abcb2f" />
+
 ## Features
 - Two-number input with result display  
 - Min, Max, Abs, Sign  
@@ -22,4 +24,4 @@ A C# Windows Forms scientific calculator that performs both basic and advanced m
 - Press F5 to run  
 
 ## Author
-MrBlackHat 115
+MrBlackHat115
